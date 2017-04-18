@@ -1,0 +1,60 @@
+<svg height="910" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="910" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 09:02:02 +0000   178214 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 09:02:02 +0000     5357 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 09:02:02 +0000      372 bytes  android/build.gradle</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 09:02:02 +0000      207 bytes  android/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 09:02:02 +0000     5357 bytes  android/src/main/java/com/github/yamill/orientat\</tspan>
+<tspan x="10" y="106">ion/OrientationModule.java</tspan>
+<tspan x="10" y="122">  5.  2017-04-18 09:02:02 +0000     1096 bytes  android/src/main/java/com/github/yamill/orientat\</tspan>
+<tspan x="10" y="138">ion/OrientationPackage.java</tspan>
+<tspan x="10" y="154">  6.  2017-04-18 09:02:02 +0000     1494 bytes  demo/android/app/BUCK</tspan>
+<tspan x="10" y="170">  7.  2017-04-18 09:02:02 +0000     5250 bytes  demo/android/app/build.gradle</tspan>
+<tspan x="10" y="186">  8.  2017-04-18 09:02:02 +0000     2303 bytes  demo/android/app/proguard-rules.pro</tspan>
+<tspan x="10" y="202">  9.  2017-04-18 09:02:02 +0000     1052 bytes  demo/android/app/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="218"> 10.  2017-04-18 09:02:02 +0000     1478 bytes  demo/android/app/src/main/java/com/demo/MainActi\</tspan>
+<tspan x="10" y="234">vity.java</tspan>
+<tspan x="10" y="250"> 11.  2017-04-18 09:02:02 +0000     3418 bytes  demo/android/app/src/main/res/mipmap-hdpi/ic_lau\</tspan>
+<tspan x="10" y="266">ncher.png</tspan>
+<tspan x="10" y="282"> 12.  2017-04-18 09:02:02 +0000     2206 bytes  demo/android/app/src/main/res/mipmap-mdpi/ic_lau\</tspan>
+<tspan x="10" y="298">ncher.png</tspan>
+<tspan x="10" y="314"> 13.  2017-04-18 09:02:02 +0000     4842 bytes  demo/android/app/src/main/res/mipmap-xhdpi/ic_la\</tspan>
+<tspan x="10" y="330">uncher.png</tspan>
+<tspan x="10" y="346"> 14.  2017-04-18 09:02:02 +0000     7718 bytes  demo/android/app/src/main/res/mipmap-xxhdpi/ic_l\</tspan>
+<tspan x="10" y="362">auncher.png</tspan>
+<tspan x="10" y="378"> 15.  2017-04-18 09:02:02 +0000       69 bytes  demo/android/app/src/main/res/values/strings.xml</tspan>
+<tspan x="10" y="394"> 16.  2017-04-18 09:02:02 +0000      192 bytes  demo/android/app/src/main/res/values/styles.xml</tspan>
+<tspan x="10" y="410"> 17.  2017-04-18 09:02:02 +0000      648 bytes  demo/android/build.gradle</tspan>
+<tspan x="10" y="426"> 18.  2017-04-18 09:02:02 +0000      887 bytes  demo/android/gradle.properties</tspan>
+<tspan x="10" y="442"> 19.  2017-04-18 09:02:02 +0000    52266 bytes  demo/android/gradle/wrapper/gradle-wrapper.jar</tspan>
+<tspan x="10" y="458"> 20.  2017-04-18 09:02:02 +0000      200 bytes  demo/android/gradle/wrapper/gradle-wrapper.prope\</tspan>
+<tspan x="10" y="474">rties</tspan>
+<tspan x="10" y="490"> 21.  2017-04-18 09:02:02 +0000     5080 bytes  demo/android/gradlew</tspan>
+<tspan x="10" y="506"> 22.  2017-04-18 09:02:02 +0000     2404 bytes  demo/android/gradlew.bat</tspan>
+<tspan x="10" y="522"> 23.  2017-04-18 09:02:02 +0000      138 bytes  demo/android/keystores/BUCK</tspan>
+<tspan x="10" y="538"> 24.  2017-04-18 09:02:02 +0000      105 bytes  demo/android/keystores/debug.keystore.properties</tspan>
+<tspan x="10" y="554"> 25.  2017-04-18 09:02:02 +0000      213 bytes  demo/android/settings.gradle</tspan>
+<tspan x="10" y="570"> 26.  2017-04-18 09:02:02 +0000     2237 bytes  demo/index.android.js</tspan>
+<tspan x="10" y="586"> 27.  2017-04-18 09:02:02 +0000     3277 bytes  demo/index.ios.js</tspan>
+<tspan x="10" y="602"> 28.  2017-04-18 09:02:02 +0000    32467 bytes  demo/ios/demo.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="618"> 29.  2017-04-18 09:02:02 +0000     4170 bytes  demo/ios/demo.xcodeproj/xcshareddata/xcschemes/d\</tspan>
+<tspan x="10" y="634">emo.xcscheme</tspan>
+<tspan x="10" y="650"> 30.  2017-04-18 09:02:02 +0000      451 bytes  demo/ios/demo/AppDelegate.h</tspan>
+<tspan x="10" y="666"> 31.  2017-04-18 09:02:02 +0000     2391 bytes  demo/ios/demo/AppDelegate.m</tspan>
+<tspan x="10" y="682"> 32.  2017-04-18 09:02:02 +0000     3707 bytes  demo/ios/demo/Base.lproj/LaunchScreen.xib</tspan>
+<tspan x="10" y="698"> 33.  2017-04-18 09:02:02 +0000      585 bytes  demo/ios/demo/Images.xcassets/AppIcon.appiconset\</tspan>
+<tspan x="10" y="714">/Contents.json</tspan>
+<tspan x="10" y="730"> 34.  2017-04-18 09:02:02 +0000     1509 bytes  demo/ios/demo/Info.plist</tspan>
+<tspan x="10" y="746"> 35.  2017-04-18 09:02:02 +0000      510 bytes  demo/ios/demo/main.m</tspan>
+<tspan x="10" y="762"> 36.  2017-04-18 09:02:02 +0000      765 bytes  demo/ios/demoTests/Info.plist</tspan>
+<tspan x="10" y="778"> 37.  2017-04-18 09:02:02 +0000     2054 bytes  demo/ios/demoTests/demoTests.m</tspan>
+<tspan x="10" y="794"> 38.  2017-04-18 09:02:02 +0000      261 bytes  demo/package.json</tspan>
+<tspan x="10" y="810"> 39.  2017-04-18 09:02:02 +0000     8378 bytes  iOS/RCTOrientation.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="826"> 40.  2017-04-18 09:02:02 +0000      280 bytes  iOS/RCTOrientation/Orientation.h</tspan>
+<tspan x="10" y="842"> 41.  2017-04-18 09:02:02 +0000     5561 bytes  iOS/RCTOrientation/Orientation.m</tspan>
+<tspan x="10" y="858"> 42.  2017-04-18 09:02:02 +0000     1634 bytes  index.js</tspan>
+<tspan x="10" y="874"> 43.  2017-04-18 09:02:02 +0000     2925 bytes  package.json</tspan>
+<tspan x="10" y="890"> 44.  2017-04-18 09:02:02 +0000      700 bytes  react-native-orientation.podspec</tspan>
+</text>
+</svg>
