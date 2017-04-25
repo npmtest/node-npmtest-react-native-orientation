@@ -1,6 +1,6 @@
 # npmtest-react-native-orientation
 
-#### test coverage for  [react-native-orientation (v1.17.0)](https://github.com/yamill/react-native-orientation#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native-orientation.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native-orientation) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native-orientation.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native-orientation)
+#### basic test coverage for  [react-native-orientation (v1.17.0)](https://github.com/yamill/react-native-orientation#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native-orientation.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native-orientation) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native-orientation.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native-orientation)
 
 #### Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-native-orientation/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-native-orientation/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-native-orientation/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-native-orientation/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native-orientation/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native-orientation/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-native-orientation/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-native-orientation/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native-orientation/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native-orientation/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-native-orientation/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-native-orientation/build/coverage.html/index.html)
 
@@ -86,7 +86,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.17.0"
+    "version": "1.17.0",
+    "bin": {}
 }
 ```
 
